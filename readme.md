@@ -113,8 +113,11 @@ Then open each .ipynb file, run all cells, and review outputs.
 🧠 Usage
 
 Each notebook is self-contained and includes clear code comments.
+
 Modify file paths in code if your datasets are stored in a different location.
+
 For Task 5, ensure the ml-100k folder structure remains as:
+
 ```
 ml-100k/
 ├── u.data
@@ -125,20 +128,30 @@ ml-100k/
 📈 Results and Evaluation
 
 Task	Metric / Result
+
 Task 1	RMSE and R² for regression model
+
 Task 2	Optimal number of clusters and visualization of segments
+
 Task 3	~65% accuracy and confusion matrix visualization
+
 Task 4	Precision and accuracy improvements with SMOTE
+
 Task 5	Top-5 movie recommendations with Precision@5 (~0.20–0.40)
+
 
 ---
 
 🙏 Acknowledgments
 
 Elevvo – for providing this valuable internship experience.
+
 Kaggle and UCI Machine Learning Repository – for open datasets.
+
 xAI Grok team – for mentorship and support throughout the process.
+
 Open-source community – for the libraries and frameworks used in this work.
+
 
 ---
 
@@ -146,4 +159,5 @@ Open-source community – for the libraries and frameworks used in this work.
 HAMNA NAZAR
 Machine Learning Intern @ Elevvo
 📅 October 2025
+
 
